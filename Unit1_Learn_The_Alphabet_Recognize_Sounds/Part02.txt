@@ -1,0 +1,67 @@
+будівля
+budivlya
+Building
+
+будинок
+budynok
+House
+
+Де мій дім?
+De miy dim?
+Where is my house?
+
+Чий це будинок?
+Chyy tse budynok?
+Whose house is this?
+
+Де ти?
+De ty?
+Where are you?
+
+Хто ти?
+Khto ty?
+Who are you?
+
+Ти студент?
+Ty student?
+Are you a student?
+
+Ви студенти, а ми не студенти
+Vy studenty, a my ne studenty
+You are students and we are not students
+
+Ти моя тітка і ти мій дядько
+Ty moya titka i ty miy dyadʹko
+You are my aunt and you are my uncle
+
+Ми тут
+My tut
+We are here
+
+Вони тут
+Vony tut
+They are here
+
+хто тут
+khto tut
+Who is here?
+
+хто
+khto
+Who
+
+вона
+vona
+She
+
+п'ять
+p'yatʹ
+Five
+
+Існує
+Isnuye
+There is
+
+Студенти там, а я тут
+Studenty tam, a ya tut
+Students are there and I am here
